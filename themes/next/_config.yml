@@ -150,9 +150,9 @@ links_icon: link
 links_title: Links
 links_layout: block
 #links_layout: inline
-links:
-  IIssNan: http://notes.iissnan.com/
-  imsun: https://imsun.net/
+#links:
+  # IIssNan: http://notes.iissnan.com/
+  # imsun: https://imsun.net/
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
