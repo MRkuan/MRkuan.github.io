@@ -1,16 +1,10 @@
 ---
 title: Hexo 博客备份
-type: categories
-categories: 博客栈
+categories: 总结
 tags:
   - Hexo
-  - 教程
-  - 博客
-copyright: true
-abbrlink: 7efd2818
-date: 2017-06-02 21:37:00
-updated: 2017-06-14 20:44:33
-thumbnail: https://i.v2ex.co/5bb7J7NT.png
+date: 2018-03-02 11:35:00
+updated: 2018-03-02 11:35:00
 ---
 
 使用 Hexo 在 github 搭建的博客，博客作为一个单独的 GitHub 仓库存在，但是这个仓库只有生成的静态网页文件，并没有 Hexo 的源文件，如果要换电脑或者重装系统后，就比较麻烦了，这里推荐一种方法。
@@ -19,7 +13,7 @@ thumbnail: https://i.v2ex.co/5bb7J7NT.png
 
 ### 备份
 
-1. 创建仓库 [WincerChan.github.io](https://wincerchan.github.io)，如果同名仓库之前已经创建，请将之前的仓库改名，新建的仓库必须是 Username.github.io；
+1. 创建仓库 [mrkuan.github.io](https://mrkuan.github.io)，如果同名仓库之前已经创建，请将之前的仓库改名，新建的仓库必须是 Username.github.io；
 2. 创建两个分支：master 和 hexo；
 3. 设置 hexo 为默认分支；
 4. 将刚刚创建的新仓库 `clone` 至本地，将之前的 hexo 文件夹中的`_config.yml`、`themes/`、`source/`、`scaffolds/`、`package.json` 和 `.gitignore` 复制至 WincerChan.github.io 文件夹；
@@ -28,7 +22,7 @@ thumbnail: https://i.v2ex.co/5bb7J7NT.png
 7. 执行 `git add`、`git commit -m ""`、`git push origin hexo` 来提交 hexo 网站源文件；
 8. 执行 `hexo g -d` 生成静态网页部署至 Github 上。
 
-这样一来，[WincerChan.github.io](https://wincerchan.github.io) 仓库就有 master 分支和 hexo 分支，分别保存静态网页和源文件。
+这样一来，[mrkuan.github.io](https://mrkuan.github.io) 仓库就有 master 分支和 hexo 分支，分别保存静态网页和源文件。
 
 ### 修改
 

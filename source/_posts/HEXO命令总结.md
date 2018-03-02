@@ -5,6 +5,8 @@ categories:
 tags:
 - HEXO
 - NEXT主题
+date: 2018-03-02 11:35:00
+updated: 2018-03-02 11:35:00
 ---
 
 <!-- ![华丽的标题](HEXO命令总结/hexo_tile.png) -->
