@@ -7,7 +7,7 @@ date: 2018-03-02 11:35:00
 updated: 2018-03-02 11:35:00
 ---
 
-使用 Hexo 在 github 搭建的博客，博客作为一个单独的 GitHub 仓库存在，但是这个仓库只有生成的静态网页文件，并没有 Hexo 的源文件，如果要换电脑或者重装系统后，就比较麻烦了，这里推荐一种方法。
+使用 Hexo 在 github 搭建的博客，博客作为一个单独的 GitHub 仓库存在，但是这个仓库只有生成的静态网页文件，并没有 Hexo 的源文件，如果要换电脑或者重装系统后，就比较麻烦了，这里推荐一种方法。[参考](https://github.com/WincerChan/MyBlog/blob/hexo/source/_posts/%E8%BD%AC%E7%A7%BBhexo.md)
 
 <!-- more -->
 
@@ -16,9 +16,9 @@ updated: 2018-03-02 11:35:00
 1. 创建仓库 [mrkuan.github.io](https://mrkuan.github.io)，如果同名仓库之前已经创建，请将之前的仓库改名，新建的仓库必须是 Username.github.io；
 2. 创建两个分支：master 和 hexo；
 3. 设置 hexo 为默认分支；
-4. 将刚刚创建的新仓库 `clone` 至本地，将之前的 hexo 文件夹中的`_config.yml`、`themes/`、`source/`、`scaffolds/`、`package.json` 和 `.gitignore` 复制至 WincerChan.github.io 文件夹；
+4. 将刚刚创建的新仓库 `clone` 至本地，将之前的 hexo 文件夹中的`_config.yml`、`themes/`、`source/`、`scaffolds/`、`package.json` 和 `.gitignore` 复制至 mrkuan.github.io 文件夹；
 5. 将 themes/next/(我用的是 NexT 主题) 中的 `.git/` 删除，否则无法将主题文件夹 push；
-6. 在 WincerChan.github.io 文件夹执行 `npm install` 和 `npm install hexo-deployer-git`（这里可以看一看分支是不是显示为 hexo）；
+6. 在 mrkuan.github.io 文件夹执行 `npm install` 和 `npm install hexo-deployer-git`（这里可以看一看分支是不是显示为 hexo）；
 7. 执行 `git add`、`git commit -m ""`、`git push origin hexo` 来提交 hexo 网站源文件；
 8. 执行 `hexo g -d` 生成静态网页部署至 Github 上。
 
@@ -39,7 +39,7 @@ updated: 2018-03-02 11:35:00
 
 1. 安装 git；
 2. 安装 Nodejs 和 npm；
-3. 使用 `git clone git@github.com:WincerChan/WincerChan.github.io.git` 将仓库拷贝至本地；
+3. 使用 `git clone git@github.com:mrkuan/mrkuan.github.io.git` 将仓库拷贝至本地；
 4. 在文件夹内执行以下命令 `npm install hexo-cli -g`、`npm install`、`npm install hexo-deployer-git`。
 
 ### 附录
