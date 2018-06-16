@@ -44,7 +44,7 @@ hexo server -p 5000
 ## 2.3 项目清理生成
 
 ``` bash
-$ hexo clean ; hexo genarate
+$ hexo clean ; hexo generate
 ```
 ## 2.4 项目部署
 
@@ -54,7 +54,7 @@ $ hexo deploy
 tips:2.3和2.4命令合体
 
 ``` bash
-$ hexo clean ; hexo genarate ; hexo deploy
+$ hexo clean ; hexo generate ; hexo deploy
 ```
 # 3 参考
 
