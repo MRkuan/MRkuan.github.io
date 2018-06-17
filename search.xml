@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[vscode 同步插件设置]]></title>
+    <url>%2F2018%2F06%2F17%2Fvscode-%E5%90%8C%E6%AD%A5%E6%8F%92%E4%BB%B6%E8%AE%BE%E7%BD%AE%2F</url>
+    <content type="text"><![CDATA[1.前序vscode 是微软出的一款轻量级代码编辑器，免费而且功能强大，对JavaScript和NodeJS的支持非常好，自带很多功能，例如代码格式化，代码智能提示补全、Emmet插件等。VSCode推荐一个项目以文件夹的方式打开。其中插件化针对项目开发使用非常方便，但是使用中插件并不能同步，插件多了，有的记不住，只记得常用快捷键，就需要同步帮我记住常用的插件，本文后续记录常用和好用的插件。 2.正文如标题图片所示，我们需要下载这个插件，配合github就可以达到同步目的 2.1 下载插件如图打开vscode 2.2 github设置进入github -&gt; Settings 在左侧 Developer settings -&gt; Personal access tokens 填写 token 名字 ，勾选 gist 点击生成后，复制改 token 2.2 设置token值(Sync: Update / Uplaod Settings) Shift + Alt + U 在弹窗里输入你的token 可以查看输出结果 2.3 one more thing如果要重置同步设置：按ctrl+p 输入 ‘&gt;sync’ 3.尾巴参考 VSCode 同步设置及扩展插件 实现设备上设置统一]]></content>
+      <categories>
+        <category>vscode</category>
+      </categories>
+      <tags>
+        <tag>插件</tag>
+        <tag>设置</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[碎碎念-博客转移小米笔记本pro]]></title>
     <url>%2F2018%2F06%2F10%2F%E7%A2%8E%E7%A2%8E%E5%BF%B5-%E5%8D%9A%E5%AE%A2%E8%BD%AC%E7%A7%BB%E5%B0%8F%E7%B1%B3%E7%AC%94%E8%AE%B0%E6%9C%ACpro%2F</url>
     <content type="text"><![CDATA[前序由于神船笔记本不幸被老婆砸坏（复杂原因。。。），痛定思痛好好做人，买了个小米笔记本pro15.6 16G 版，今天给它重新装了win10专业版，office全家桶，自带的家庭版和office三剑客太LJ了，不要，找到官网后将它驱动重新安装了下，感觉还不错，原本还计划安装小米笔记本黑苹果系统，但是还达不到我要的完美，没有WIFI驱动，不是很完美，如果解决了相关问题，用黑苹果做主力还是可以的 博客转移前面啰嗦了点，主要是讲博客恢复，参考了 auto_install.bat，如果当时没做相关笔记，又要百度，所以记笔记很重要，恢复的过程很快 后续计划博客能有点干货，前期太水，都是搬运，总结，没人爱看，想出点干货的东西，同时准备给相关博客加下锁，私人的东西还是不放出来，尽量走技术路线，不要水了。。。 2018年6月10日 22点23分 写于 小米笔记本pro 15.6]]></content>
