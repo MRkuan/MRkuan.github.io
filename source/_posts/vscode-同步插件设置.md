@@ -53,6 +53,6 @@ date: 2018-06-17 18:14:13
 
 ![sync_cmd.jpg](vscode-同步插件设置\sync_cmd.jpg)
 
-## 3.尾巴
+# 3.尾巴
 
 参考 [VSCode 同步设置及扩展插件 实现设备上设置统一](https://www.cnblogs.com/kenz520/p/7416836.html)
