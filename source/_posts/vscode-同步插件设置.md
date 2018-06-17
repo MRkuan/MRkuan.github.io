@@ -6,7 +6,6 @@ tags:
 - 插件
 - 设置
 date: 2018-06-17 18:14:13
-tags:
 ---
 
 ![title.jpg](vscode-同步插件设置\title.jpg)
