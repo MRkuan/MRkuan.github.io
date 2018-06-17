@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[碎碎念-博客转移小米笔记本pro]]></title>
+    <url>%2F2018%2F06%2F10%2F%E7%A2%8E%E7%A2%8E%E5%BF%B5-%E5%8D%9A%E5%AE%A2%E8%BD%AC%E7%A7%BB%E5%B0%8F%E7%B1%B3%E7%AC%94%E8%AE%B0%E6%9C%ACpro%2F</url>
+    <content type="text"><![CDATA[前序由于神船笔记本不幸被老婆砸坏（复杂原因。。。），痛定思痛好好做人，买了个小米笔记本pro15.6 16G 版，今天给它重新装了win10专业版，office全家桶，自带的家庭版和office三剑客太LJ了，不要，找到官网后将它驱动重新安装了下，感觉还不错，原本还计划安装小米笔记本黑苹果系统，但是还达不到我要的完美，没有WIFI驱动，不是很完美，如果解决了相关问题，用黑苹果做主力还是可以的 博客转移前面啰嗦了点，主要是讲博客恢复，参考了 auto_install.bat，如果当时没做相关笔记，又要百度，所以记笔记很重要，恢复的过程很快 后续计划博客能有点干货，前期太水，都是搬运，总结，没人爱看，想出点干货的东西，同时准备给相关博客加下锁，私人的东西还是不放出来，尽量走技术路线，不要水了。。。 2018年6月10日 22点23分 写于 小米笔记本pro 15.6]]></content>
+      <categories>
+        <category>碎碎念</category>
+      </categories>
+      <tags>
+        <tag>博客转移</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[碎碎念-全国计算机三级]]></title>
+    <url>%2F2018%2F03%2F24%2F%E7%A2%8E%E7%A2%8E%E5%BF%B5-%E5%85%A8%E5%9B%BD%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%89%E7%BA%A7%2F</url>
+    <content type="text"><![CDATA[今天下午4点多把全国计算机三级嵌入式考了下，还是有些知识点没有涉及，基本估了下65-75之间，算是暂时告一段落，等待后续查询。 我不知道我为什么要这么坚持，考这些没用的试，或许我的懒不能够持续的去学习，用这样的方式激励自己学习，为了下一个阶段打下基础，再过2年就30岁，一事无成的压力很大，房子至今没有上车，经历了些，感悟了些，我要变的更强，我要向周围人学习，我不想30岁再去感悟至今一事无成。。。。 就这样。。。 放一首 我心情颓废的歌曲，我很喜欢这些激励人心的歌曲，每个人都有低谷，都想走出去，我走出去的方式就是听歌 更新了下成绩，不出所料合格，考级告一段落，今年把驾照给过了吧。。]]></content>
+      <categories>
+        <category>碎碎念</category>
+      </categories>
+      <tags>
+        <tag>全国计算机三级</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[全国计算机三级嵌入式系统开发技术[2018.3]-真考题库试卷3总结]]></title>
+    <url>%2F2018%2F03%2F23%2F%E5%85%A8%E5%9B%BD%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%89%E7%BA%A7%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%5B2018.3%5D-%E7%9C%9F%E8%80%83%E9%A2%98%E5%BA%93%E8%AF%95%E5%8D%B73%E6%80%BB%E7%BB%93%2F</url>
+    <content type="text"><![CDATA[1 选择题1.1 不解释 1.2 高主频不是 1.3 已经普及开了 1.4 嵌入式处理芯片属于超大规模和极大规模 1.5 额，不解释 1.6 不吐槽，不解释 1.7 不吐槽，不解释 1.8 不吐槽，不解释 1.9 不吐槽，不解释 1.10 不吐槽，不解释 1.11 不解释 1.12 不解释 1.13 没有24位 1.14 不解释 1.15 不解释 1.16 详见书 P73 1.17 不解释 1.18 不解释 1.19 不解释 1.20 不解释 1.21 不解释 1.22 不解释 1.23 不解释 1.24 不解释 1.25 不解释 1.26 不解释 1.27 不解释 1.28 不解释 1.29 不解释 1.30 不解释 1.31 最多64个 1.32 不解释 1.33 不解释 1.34 同上，不解释 1.35 不解释 1.36 不解释 1.37 不解释 1.38 不解释 1.39 不解释 1.40 不解释，混进了奇怪的东西 2 填空题2.41_42 不解释 2.43_44 不解释 2.45_46 不解释 2.47_48 不解释 2.49_50 不解释 2.51_52 不解释 2.53_54 不解释 2.55_56 不解释 2.57_58 不解释 2.59_60 不解释 2.61_62 不解释 2.63_64 不解释 2.65_66 正常模式 慢速模式 休眠模式 掉电模式 2.67_68 不解释 2.69_70 不解释 2.71_72 不解释 2.73_74 不解释 2.75_76 如图所示 2.77_78 如图所示 2.79_80 如图所示 3 综合题 所有答案]]></content>
+      <categories>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>全国计算机三级</tag>
+        <tag>嵌入式</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[全国计算机三级嵌入式系统开发技术[2018.3]-真考题库试卷2总结]]></title>
+    <url>%2F2018%2F03%2F20%2F%E5%85%A8%E5%9B%BD%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%89%E7%BA%A7%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%5B2018.3%5D-%E7%9C%9F%E8%80%83%E9%A2%98%E5%BA%93%E8%AF%95%E5%8D%B72%E6%80%BB%E7%BB%93%2F</url>
+    <content type="text"><![CDATA[1 选择题1.1 DSP是嵌入式一种 1.2 卧槽是DSP 1.3 支持IO的 1.4 不解释 1.5 额，超大规模和极大规模 1.6 不吐槽，不解释 1.7 不吐槽，不解释 1.8 详见书 P38 1.9 不吐槽，不解释 1.10 不吐槽，不解释 1.11 不解释 1.12 不解释 1.13 不解释 1.14 不解释 1.15 不解释 1.16 不解释 1.17 不解释 1.18 不解释 1.19 不解释 1.20 不解释 1.21 不解释 1.22 不解释 1.23 不解释 1.24 不解释 1.25 不解释 1.26 不解释 1.27 不解释 1.28 不解释 1.29 不解释 1.30 不解释 1.31 不解释 1.32 不解释 1.33 不解释，详见书USOSII这一章节 1.34 同上，不解释 1.35 不解释 1.36 不解释 1.37 不解释 1.38 不解释 1.39 不解释 1.40 不解释 2 填空题2.41_42 不解释 2.43_44 不解释 2.45_46 不解释 2.47_48 不解释 2.49_50 R13 SP R14 LR R15 PC 2.51_52 不解释 2.53_54 不解释 2.55_56 不解释 2.57_58 不解释 2.59_60 不解释 2.61_62 大小写注意 NOR NAND 2.63_64 不解释 2.65_66 记住就好 名字这么长 主机输入从机输出 主机输出从机输入 2.67_68 不解释 2.69_70 不解释 2.71_72 不解释 2.73_74 是可移植性，不是移植性 2.75_76 如图所示 2.77_78 如图所示 2.79_80 如图所示 3 综合题 所有答案]]></content>
+      <categories>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>全国计算机三级</tag>
+        <tag>嵌入式</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[全国计算机三级嵌入式系统开发技术[2018.3]-真考题库试卷1总结]]></title>
+    <url>%2F2018%2F03%2F19%2F%E5%85%A8%E5%9B%BD%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%89%E7%BA%A7%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%5B2018.3%5D-%E7%9C%9F%E8%80%83%E9%A2%98%E5%BA%93%E8%AF%95%E5%8D%B71%E6%80%BB%E7%BB%93%2F</url>
+    <content type="text"><![CDATA[1 选择题1.1 不解释 1.2 不解释 1.3 STC51还在。。。。 1.4 有多核存在 1.5 8位控制。。。，还是32位太浪费了 1.6 不吐槽，不解释 1.7 详见书 P28 1.8 详见书 P38 1.9 不吐槽，不解释 1.10 不吐槽，不解释 1.11 不解释 1.12 不解释，详见书 P60 1.13 详见书 P62 1.14 不解释 1.15 不解释 1.16 不解释，对这种LDR题目身经百战了，滑稽。。。 1.17 不解释 1.18 不解释 1.19 话说的太绝对 1.20 详见书 P111 1.21 详见书 P112 1.22 详见书 P115 1.23 不解释 1.24 不解释 1.25 不解释 1.26 不解释 1.27 不解释 1.28 答案还有问题。。。。，是a f g c d为高 1.29 不解释 1.30 记住就好。。。 1.31 不解释 1.32 U—Boot最吊 1.33 不解释，详见书USOSII这一章节 1.34 同上，不解释 1.35 不解释 1.36 不解释 1.37 不解释 1.38 不解释 1.39 不解释 1.40 不解释 2 填空题2.41_42 不解释 2.43_44 Flash 老生常谈 大小写要注意 2.45_46 记住就好 802.3是以太网 2.47_48 详见书 P64 2.49_50 不解释 2.51_52 哈哈记住 2.53_54 不解释 2.55_56 记住 2.57_58 记住 2.59_60 一起读 铁电随机存取存储器 ，磁性随机存取存储器 2.61_62 记住 2.63_64 不解释 2.65_66 记住就好 2.67_68 不解释 2.69_70 不解释 2.71_72 不解释 2.73_74 不解释 2.75_76 如图所示 2.77_78 如图所示 2.79_80 如图所示 3 综合题 所有答案]]></content>
+      <categories>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>全国计算机三级</tag>
+        <tag>嵌入式</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[全国计算机三级嵌入式系统开发技术[2018.3]新增题试卷1总结]]></title>
+    <url>%2F2018%2F03%2F13%2F%E5%85%A8%E5%9B%BD%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%89%E7%BA%A7%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%5B2018.3%5D-%E6%96%B0%E5%A2%9E%E9%A2%98%E8%AF%95%E5%8D%B71%E6%80%BB%E7%BB%93%2F</url>
+    <content type="text"><![CDATA[1 选择题1.1 如图所示参考书P26 1.2 巨型机和服务器太大了，当然不是了 1.3 如图所示 1.4 如图所示一张为 4096*3072*24/8/1024/1024=36M 为36M，一共36M/n*400/1024&lt;=4 n&gt;3.515,选接近的4 1.5 额，单位是G HZ来着 1.6 不吐槽，不解释 1.7 不吐槽，不解释 1.8 能耗不大 1.9 不吐槽，不解释 1.10 不吐槽，不解释 1.11 不解释 1.12 MPU保护内存 1.13 详见书 P81 1.14 是十六进制一个0代表4位。。。 1.15 不解释 1.16 不解释 1.17 不解释 1.18 不解释 1.19 话说的太绝对 1.20 #号貌似 应该是低电平有效 ，AM29LV320D 数据表 (PDF) 1.21 IIC 只有两更新 SDA SCL 1.22 MOSI就是对MOSI。。。。，不是答案A，而是答案C 1.23 不解释 1.24 我了个大草，USB是同步的，时钟是隐藏的 1.25 不解释 1.26 不解释 1.27 动车自动驾驶硬实时 1.28 不解释 1.29 不解释 1.30 中间件和HAL两个概念。。。 1.31 不解释 1.32 两个都是嵌入式操作系统 1.33 不解释，详见书USOSII这一章节 1.34 同上，不解释 1.35 不解释 1.36 不解释 1.37 不解释 1.38 不解释 1.39 不解释 1.40 不解释 2 填空题2.41_42 不解释 2.43_44 不解释 2.45_46 mpeg4和MP4有什么区别 2.47_48 不解释 2.49_50 我日 R0是 0x0不是0，擦擦擦，格式要注意 2.51_52 搞不懂 SUB和SUBHI什么区别 2.53_54 ADD和ADC区别 2.55_56 FUCK 啊，R1现在为0了，说好的带0x呢？骗子，掌握不了规律，好气人 2.57_58 MD，第二个答案名字这么长 再写一遍 ARM Cortex嵌入式处理器 2.59_60 跟我一起读 嵌套向量中断控制器 唤醒中断控制器 2.61_62 不解释，MD 0x100现在要全 0x00000100,FUCK！！！！！ 2.63_64 EORNES是什么JB 2.65_66 记住就好 2.67_68 不解释 2.69_70 不解释 2.71_72 不解释 2.73_74 不解释 2.75_76 如图所示 2.77_78 如图所示 2.79_80 如图所示 3 综合题 所有答案]]></content>
+      <categories>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>全国计算机三级</tag>
+        <tag>嵌入式</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[全国计算机三级嵌入式系统开发技术[2018.3]新增题试卷2总结]]></title>
+    <url>%2F2018%2F03%2F05%2F%E5%85%A8%E5%9B%BD%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%89%E7%BA%A7%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%5B2018.3%5D-%E6%96%B0%E5%A2%9E%E9%A2%98%E8%AF%95%E5%8D%B72%E6%80%BB%E7%BB%93%2F</url>
+    <content type="text"><![CDATA[1 选择题1.1 嵌入式也有高性能芯片 1.2 手机当然是嵌入式高端的扛把子 1.3 影响CPU性能的主要因素有:主频 指令系统 高速缓冲存储器的容量和结构 逻辑结构 1.4 32位早有了。。。送分题 1.5 卧槽不会。。。无耻看下答案进行计算试下 图像数据量= 4096*3072*24/8/4=9437184B一共400张这样的数据,那就是9437184*400/1024/1024/1024=3.515625 G数据 所以选C 需要4G 数据 参考链接 1.6 不吐槽，不解释 1.7 不吐槽，不解释 1.8 取代你妹啊 1.9 记住就好了 1.10 当然是 m0最便宜了 1.11 cortex处理器分A R M三类，名称分别是 cortex description A 应用型cortex处理器 R 嵌入式Cortex处理器 M 嵌入式Cortex处理器 1.12 ARM9 属于ARM v4T架构 详见书第51页介绍arm处理器架构的发展 1.13 懵逼了，百度之，CPSR(程序状态寄存器) 构成从编程的角度看，ARM微处理器的工作状态一般有两种，并可在两种状态之间切换：－ 第一种为ARM状态，此时处理器执行32位的字对齐的ARM指令；－ 第二种为Thumb状态，此时处理器执行16位的、半字对齐的Thumb指令。 工作模式有:（1）用户模式（usr , User Mode）。ARM处理器正常的程序执行状态。（2）快速中断模式（fiq , Fast Interrupt Request Mode）。用于高速数据传输或通道处理。当触发快速中断时进入此模式。（3）外部中断模式 ( irq , Interrupt Request Mode )。用于通用的中断处理。当触发外部中断时进入此模式。（4）管理模式 ( svc , Supervisor Mode )。操作系统使用的保护模式。在系统复位或者执行软件中断指令SWI时进入。（5）数据访问终止模式 ( abt , Abort Mode )。当数据或指令预取终止时进入该模式，可用于虚拟存储及存储保护。（6）系统模式（sys , System Mode ）。运行具有特权的操作系统任务。（7）未定义指令中止模式 ( und , Undefined Mode )。当未定义的指令执行时进入该模式，可用于支持硬件协处理器的软件仿真。 1.14 参考上一题 1.15 参考，详见书第73页LDRH R1,[R2,#4]! ;将存储器地址为R2＋4的半字数据读入寄存器R1，并将R1的高16位清零。 R1 再自增4 1.16 详见书第76页 1.17 详见书第68页开始的汇编指令集 1.18 一脸懵逼 1.19 JTAG 具有在线编程功能 1.20 选择高速接线 1.21 和位数有关的，分辨率 1.22 大容量是NAND FLASH ，NOR flash 最大 大概是 128Mbit 1.23 SPI 可以支持 多主多从 1.24 不解释 1.25 共阳接发 ， 0点亮 1 不点亮 1.26 哈哈 USB是半双工。。。 1.27 参考书 P177 UBDIV=INT(UCLK/(波特率16))-1=(100MHZ/（1920016）*16)-1=INT(325.52)-1=324 1.28 应该是小于等于8个字节，CANFD 是小于等于64个字节，说的太绝对的话一定有问题 1.29 卧槽，时间片轮转不是实时系统必备的，学习了 1.30 两个都不是同一个概念。。。 1.31 没有UBOOT叼 1.32 linux不主要包括shell 1.33 参考书P245 1.34 参考书P245 1.35 都服务了，还挂起什么。。。 1.36 不解释 1.37 不会立即 1.38 不会立即 1.39 仿真器被排除了。。。 1.40 RVDS包含指令集仿真器 2 填空题2.41_42 SIMD 2.43_44 不解释 2.45_46 送分题 2.47_48 卧槽，不知道啊。。。 2.49_50 CPU流水线 2.51_52 RSBS R2,R1,R0 ;R2=R1-R0=&gt;0x67000010-0x67000000=0x10 ORR R3,R1,R0 ;R3=R1|R0=0x67000010 2.53_54 R1=R0 R2=R0+4 2.55_56 R0=R1+4 R1=R1+4 2.57_58 如图所示 书P109 2.59_60 如图所示 书P109 2.61_62 如图所示 书P115 2.63_64 2^268b/8/1024/1024=64 MB 2^268=2^条数 *16 条数=25 2.65_66 如图所示 书P142 2.67_68 如图所示 2.69_70 如图所示 2.71_72 如图所示，大小写要小心。。。 2.73_74 如图所示 书P223 2.75_76 如图所示 2.77_78 如图所示 书P154 2.79_80 如图所示 书P293 3 综合题 所有答案]]></content>
+      <categories>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>全国计算机三级</tag>
+        <tag>嵌入式</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F03%2F02%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hexo 博客备份]]></title>
+    <url>%2F2018%2F03%2F02%2FHEXO%E8%BD%AC%E7%A7%BB%E6%80%BB%E7%BB%93%2F</url>
+    <content type="text"><![CDATA[使用 Hexo 在 github 搭建的博客，博客作为一个单独的 GitHub 仓库存在，但是这个仓库只有生成的静态网页文件，并没有 Hexo 的源文件，如果要换电脑或者重装系统后，就比较麻烦了，这里推荐一种方法。参考 备份 创建仓库 mrkuan.github.io，如果同名仓库之前已经创建，请将之前的仓库改名，新建的仓库必须是 Username.github.io； 创建两个分支：master 和 hexo； 设置 hexo 为默认分支； 将刚刚创建的新仓库 clone 至本地，将之前的 hexo 文件夹中的_config.yml、themes/、source/、scaffolds/、package.json 和 .gitignore 复制至 mrkuan.github.io 文件夹； 将 themes/next/(我用的是 NexT 主题) 中的 .git/ 删除，否则无法将主题文件夹 push； 在 mrkuan.github.io 文件夹执行 npm install 和 npm install hexo-deployer-git（这里可以看一看分支是不是显示为 hexo）； 执行 git add、git commit -m &quot;&quot;、git push origin hexo 来提交 hexo 网站源文件； 执行 hexo g -d 生成静态网页部署至 Github 上。 这样一来，mrkuan.github.io 仓库就有 master 分支和 hexo 分支，分别保存静态网页和源文件。 修改在本地对博客修改（包括修改主题样式、发布新文章等）后： 依次执行 git add、git commit -m &quot;&quot; 和 git push origin hexo 来提交 hexo 网站源文件； 执行 hexo g -d 生成静态网页部署至 Github 上。 即重复备份的 7-8 步骤，以上两步没有严格的顺序。 恢复重装电脑后，或者在其它电脑上想修改博客： 安装 git； 安装 Nodejs 和 npm； 使用 git clone git@github.com:mrkuan/mrkuan.github.io.git 将仓库拷贝至本地； 在文件夹内执行以下命令 npm install hexo-cli -g、npm install、npm install hexo-deployer-git。 附录这里稍作说明： 添加 ssh-keys 在终端下运行：ssh-keygen -t rsa -C &quot;yourname@email.com&quot;，一路回车； 会在 .ssh 目录生成 id_rsa、id_rsa.pub 两个文件，这就是密钥对，id_rsa 是私钥，千万不能泄漏出去； 登录 Github，打开「Settings」–&gt;「SSH and GPG keys」，然后点击「new SSH key」，填上任意 Title，在 Key 文本框里粘贴公钥 id_rsa.pub 文件的内容，注意不要粘贴成 id_rsa，最后点击「Add SSH Key」。 hexo 的源文件这里说一下步骤 4 为什么只需要拷贝 6 个，而不需要全部： _config.yml站点的配置文件，需要拷贝； themes/主题文件夹，需要拷贝； source 博客文章的 .md 文件，需要拷贝； scaffolds/ 文章的模板，需要拷贝； package.json 安装包的名称，需要拷贝； .gitignore 限定在 push 时哪些文件可以忽略，需要拷贝； .git/ 主题和站点都有，标志这是一个 git 项目，不需要拷贝； node_modules/ 是安装包的目录，在执行 npm install 的时候会重新生成，不需要拷贝； public 是 hexo g 生成的静态网页，不需要拷贝； .deploy_git 同上，hexo g 也会生成，不需要拷贝； db.json文件，不需要拷贝。 其实不需要拷贝的文件正是 .gitignore 中所忽略的。]]></content>
+      <categories>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[markdown语法总结]]></title>
+    <url>%2F2018%2F03%2F02%2Fmarkdown%E8%AF%AD%E6%B3%95%E6%80%BB%E7%BB%93%2F</url>
+    <content type="text"><![CDATA[搬运地址 针对中文,演示Markdown的各种语法 大标题 大标题一般显示工程名,类似html的\&lt;h1> 你只要在标题下面跟上=====即可 中标题 中标题一般显示重点项,类似html的\&lt;h2> 你只要在标题下面输入——即可 小标题 小标题类似html的\&lt;h3> 小标题的格式如下 ### 小标题 注意#和标题字符中间要有空格 标题的等级表示法关于标题的等级表示法，共分为六个等级，显示的文本大小依次减小。不同等级之间以井号#的个数来标识。一级标题有一个#，二级标题有两个#，以此类推。 #一级标题 ##二级标题 ###三级标题 ####四级标题 #####五级标题 ######六级标题 注意!!!下面所有语法的提示我都先用小标题提醒了!!!单行文本框这是一个单行的文本框,只要两个Tab再输入文字即可 多行文本框这是一个有多行的文本框 你可以写入代码等,每行文字只要输入两个Tab再输入文字即可 这里你可以输入一段代码 比如我们可以在多行文本框里输入一段代码,来一个Java版本的HelloWorld吧public class HelloWorld { /** * @param args */ public static void main(String[] args) { System.out.println(&quot;HelloWorld!&quot;); } } 链接1.点击这里你可以链接到www.google.com2.点击这里我你可以链接到我的博客 ###只是显示百度的图片 ###只是显示图片，这里用的是相对路径 显示图片也可以用原生的html标签 ###想点击某个图片进入一个网页,比如我想点击github的icorn然后再进入www.github.com![image][image]: /markdown语法总结/02.jpg “github-02.jpg” 文字被些字符包围 文字被些字符包围 只要再文字前面加上&gt;空格即可 如果你要换行的话,新起一行,输入&gt;空格即可,后面不接文字但&gt; 只能放在行首才有效 文字被些字符包围,多重包围 文字被些字符包围开始 只要再文字前面加上&gt;空格即可 如果你要换行的话,新起一行,输入&gt;空格即可,后面不接文字 但&gt; 只能放在行首才有效 部分文字的高亮如果你想使一段话部分文字高亮显示，来起到突出强调的作用，那么可以把它用``包围起来。注意这不是单引号，而是Tab键和数字1键左边的按键（注意使用英文输入法）。 example： ThankYou. Please Call Me Coder 代码片段高亮显示GitHub的markdown语法还支持部分语言的代码片段高亮显示。只需要在代码的上一行和下一行用```标记。1public static void main(String[] args)&#123;&#125; //Java 1int main(int argc,char *argv[]) //C 1document.getElementById("myH1").innerHTML="Welcome to my Homepage";//javascript 1string &amp;operator+(const string&amp; A,const string&amp; B) //cpp list列表条目使用写文章时经常会用到list列表条目。GitHub的markdown语法里也支持使用圆点符。编辑的时候使用的是星号*。 国籍：中国 城市：北京 大学：清华大学注意：星号*后面要有一个空格。否则显示为普通星号。GitHub还支持多级别的list列表条目： 编程语言 脚本语言 Python 特殊字符处理有一些特殊字符如&lt;,#等,只要在特殊字符前面加上转义字符\即可你想换行的话其实可以直接用html标签\&lt;br /> 插入表格在Markdown中插入表格比较麻烦，需要Markdown的扩展语法，但是插入HTML就没有那么麻烦了，因此我们可以通过曲线救国的方式来插入表格。在Markdown中，&amp;符号和&lt;会自动转换成HTML。 &lt;div&gt; &lt;table border=&quot;0&quot;&gt; &lt;tr&gt; &lt;th&gt;one&lt;/th&gt; &lt;th&gt;two&lt;/th&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Hello&lt;/td&gt; &lt;td&gt;你好&lt;/td&gt; &lt;/tr&gt; &lt;/table&gt; &lt;/div&gt; one two Hello 你好]]></content>
+      <categories>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>markdown</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[HEXO命令总结]]></title>
+    <url>%2F2018%2F03%2F02%2FHEXO%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93%2F</url>
+    <content type="text"><![CDATA[1 概述一些新建文章推送到github page 等常用命令 做日后备注 2 命令2.1 新建文章命令1$ hexo new "My New Post" 12345678文章开头需要增加 如下标签title: HEXO日常写博客常用命令总结categories:- 总结tags:- HEXO- NEXT主题 2.2 预览命令1hexo server -p 5000 其中 5000是端口号，然后打开 http://localhost:5000/ 2.3 项目清理生成1$ hexo clean ; hexo generate 2.4 项目部署1$ hexo deploy tips:2.3和2.4命令合体 1$ hexo clean ; hexo generate ; hexo deploy 3 参考 说明 地址 参考新建文章命令 HEXO官方新建文章说明]]></content>
+      <categories>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>HEXO</tag>
+        <tag>NEXT主题</tag>
+      </tags>
+  </entry>
+</search>
